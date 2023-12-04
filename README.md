@@ -3,7 +3,7 @@ shared task related documnts
 This repository shares the code for shared task by team Diya.
 We have achieved the multiclass classification using a code-mixed mode with hyper parameter tuning.
 
-Our results on validation dataset Classwise are shown below:
+Our results on validation dataset Classwise are shown below (Kindly check in the code tab as in preview values are distorted ):
 
 classifiation report
 
